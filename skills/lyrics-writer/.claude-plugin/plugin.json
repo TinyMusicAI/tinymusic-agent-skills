@@ -1,0 +1,12 @@
+{
+  "name": "lyrics-writer",
+  "version": "1.0.0",
+  "description": "Write, rewrite or polish song lyrics in any language, with a paste-ready package for the TinyMusic generator.",
+  "author": {
+    "name": "TinyMusic",
+    "url": "https://tinymusic.ai"
+  },
+  "homepage": "https://tinymusic.ai",
+  "license": "MIT",
+  "skills": "./"
+}

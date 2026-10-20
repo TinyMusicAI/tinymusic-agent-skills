@@ -1,0 +1,12 @@
+{
+  "name": "personalized-song-gift",
+  "version": "1.0.0",
+  "description": "Personalized gift songs for birthdays, weddings, anniversaries and more, built from an interview about real details, with lyrics and a style ready to generate.",
+  "author": {
+    "name": "TinyMusic",
+    "url": "https://tinymusic.ai"
+  },
+  "homepage": "https://tinymusic.ai",
+  "license": "MIT",
+  "skills": "./"
+}

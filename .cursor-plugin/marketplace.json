@@ -1,0 +1,52 @@
+{
+  "name": "tinymusic-agent-skills",
+  "description": "TinyMusic agent skills for songs, lyrics, gift songs, jingles and background music. Free to use without any setup; an optional MCP server lets the agent generate audio directly.",
+  "owner": {
+    "name": "TinyMusic",
+    "url": "https://tinymusic.ai"
+  },
+  "plugins": [
+    {
+      "name": "ai-song-generator",
+      "version": "1.0.0",
+      "description": "Turn an idea or finished lyrics into a complete song. Standalone it prepares a paste-ready generation pack for the TinyMusic generator; with the optional MCP it generates the song.",
+      "source": "./skills/ai-song-generator",
+      "category": "media"
+    },
+    {
+      "name": "lyrics-writer",
+      "version": "1.0.0",
+      "description": "Write, rewrite or polish song lyrics in any language, with a paste-ready package for the TinyMusic generator.",
+      "source": "./skills/lyrics-writer",
+      "category": "media"
+    },
+    {
+      "name": "music-style-prompt-guide",
+      "version": "1.0.0",
+      "description": "Guide to writing effective AI music prompts and style strings: genre, mood, tempo, instruments, vocals and production feel, with examples and templates.",
+      "source": "./skills/music-style-prompt-guide",
+      "category": "media"
+    },
+    {
+      "name": "royalty-free-bgm",
+      "version": "1.0.0",
+      "description": "Instrumental background music briefs for videos, podcasts, games and streams, with prompt recipes for mood, energy and loop feel. Makes no licensing claims.",
+      "source": "./skills/royalty-free-bgm",
+      "category": "media"
+    },
+    {
+      "name": "personalized-song-gift",
+      "version": "1.0.0",
+      "description": "Personalized gift songs for birthdays, weddings, anniversaries and more, built from an interview about real details, with lyrics and a style ready to generate.",
+      "source": "./skills/personalized-song-gift",
+      "category": "media"
+    },
+    {
+      "name": "brand-jingle-creator",
+      "version": "1.0.0",
+      "description": "Short brand jingles, sonic logos and intro/outro music: a brief becomes three distinct directions and a paste-ready pack.",
+      "source": "./skills/brand-jingle-creator",
+      "category": "media"
+    }
+  ]
+}

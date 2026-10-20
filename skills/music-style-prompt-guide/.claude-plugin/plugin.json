@@ -1,0 +1,12 @@
+{
+  "name": "music-style-prompt-guide",
+  "version": "1.0.0",
+  "description": "Guide to writing effective AI music prompts and style strings: genre, mood, tempo, instruments, vocals and production feel, with examples and templates.",
+  "author": {
+    "name": "TinyMusic",
+    "url": "https://tinymusic.ai"
+  },
+  "homepage": "https://tinymusic.ai",
+  "license": "MIT",
+  "skills": "./"
+}
