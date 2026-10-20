@@ -1,0 +1,12 @@
+{
+  "name": "ai-song-generator",
+  "version": "1.0.0",
+  "description": "Turn an idea or finished lyrics into a complete song. Standalone it prepares a paste-ready generation pack for the TinyMusic generator; with the optional MCP it generates the song.",
+  "author": {
+    "name": "TinyMusic",
+    "url": "https://tinymusic.ai"
+  },
+  "homepage": "https://tinymusic.ai",
+  "license": "MIT",
+  "skills": "./"
+}

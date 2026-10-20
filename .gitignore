@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+*.log
+.env
+.env.*
+.omc
+.codeflicker
+.idea
+.vscode
